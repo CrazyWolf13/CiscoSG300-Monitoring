@@ -6,8 +6,8 @@ A dashboard to display data from my Cisco SG300 Switch scraped via SNMP from Tel
 This dashboard shows data collected by Speedtest Tracker https://github.com/alexjustesen/speedtest-tracker and scraped by Prometheus.
 
 ### Info
-![]()
-![]()
+![Screenshot 1](./assets/grafana_board_1.png)
+![Screenshot 2](./assets/grafana_board_2.png)
 
 ### Updates
 
